@@ -199,9 +199,9 @@
         minute: 30
     })
 
-    $('#btnRequestDemo').on('click', function ($) {
-        window.open('mailto:keshav@frontalobe.io?subject=subject&body=body');
+    // $('#btnRequestDemo').on('click', function ($) {
+    //     window.open('mailto:keshav@frontalobe.io?subject=subject&body=body');
 
-    })
+    // })
 
 })(jQuery);
